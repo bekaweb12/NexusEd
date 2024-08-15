@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Beka
+- 👀 I’m interested in developing and doing different with code
+- 🌱 I’m currently learning computers science.
+- 💞️ I’m looking to collaborate on github with coders.
+- 📫 You can reach me by using gechbanti@gmail.com
+- 😄 I like to do something different.
+- ⚡ Making funny things is interesting to me.
